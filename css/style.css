@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700');
+
+* {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.header-banner {
+	border-top: 1px solid rgb(193,112,34);
+}
+
+.header-banner-text {
+	background-color: rgb(193,112,34);
+	width: 140px;
+	color: white;
+	text-align: center;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+hr {
+	border-top: 1px solid rgb(193,112,34);
+}
+
+footer {
+  margin-bottom: 50px;
+}
+
+.footer-logo {
+	max-width: 125px;
+}
+
